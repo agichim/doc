@@ -276,7 +276,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | Traccar | Modern GPS Tracking Platform | [Upstream](https://github.com/traccar/traccar) |  |
 | transpay | Interface to receive and manage donations with Stripe |  | [Package Draft](https://github.com/YunoHost-Apps/transpay_ynh) |
 | transwhat | A gateway to WhatsApp from Jabber |  | [Package Draft](https://github.com/Josue-T/transwhat_ynh) |
-| [Tryton](https://www.tryton.org/) | A solid ERP system |  |  |
+| [Tryton](https://www.tryton.org/) | A solid ERP system | [Upstream](https://hg.tryton.org/) |  |
 | tutao | End-to-end encrypted e-mail client | [Upstream](https://github.com/tutao/tutanota/) | [Package Draft](https://github.com/YunoHost-Apps/tutao_ynh) |
 | [Twake](https://twake.app/fr)| All of the organizational tools you need to make your projects succeed brought together on one platform.| | |
 | Twister |  | [Upstream](https://github.com/miguelfreitas/twister-core/) |  |
